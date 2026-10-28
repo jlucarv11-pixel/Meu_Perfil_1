@@ -1,0 +1,69 @@
+SITE DO ALUNO — Semana 7
+Redes de Computadores · 1º ano · Técnico em Desenvolvimento Web · IFMA
+
+------------------------------------------------------------------
+O QUE FAZER (5 minutos)
+------------------------------------------------------------------
+
+1. Abra esta pasta no VS Code.
+   File > Open Folder... e escolha a pasta "site-aluno".
+
+2. Abra o arquivo index.html.
+
+3. Procure as quatro marcações TROQUE dentro do arquivo e substitua:
+
+   TROQUE 1 — o titulo que aparece na aba do navegador
+   TROQUE 2 — as suas cores
+   TROQUE 3 — o SEU NOME  (esta e' a mais importante)
+   TROQUE 4 — tres coisas sobre voce
+
+4. Salve com Ctrl + S.
+
+5. Clique em "Go Live" na barra de baixo do VS Code.
+   O navegador vai abrir sozinho com o seu site.
+
+Pronto. O seu computador virou servidor.
+
+------------------------------------------------------------------
+IMPORTANTE
+------------------------------------------------------------------
+
+O nome no TROQUE 3 nao e' enfeite. E' por ele que voce e o seu
+colega vao descobrir de quem e' o site que apareceu na tela de
+cada um. Se voce deixar "SEU NOME AQUI", a atividade nao funciona.
+
+------------------------------------------------------------------
+O PAINEL DE REDE
+------------------------------------------------------------------
+
+No fim da pagina existe um painel escuro que se preenche sozinho.
+Ele mostra por qual endereco aquela pagina foi aberta: o host, a
+porta, o protocolo e a hora.
+
+Voce nao precisa mexer nele. Voce precisa OLHAR para ele — e copiar
+o que estiver la' para a sua folha de laboratorio, todas as vezes
+que o professor pedir.
+
+Uma dica: o painel mostra o endereco de quem ABRIU a pagina, nao o
+de quem a criou. Preste atencao nisso quando o seu colega abrir o
+seu site — e quando voce abrir o dele.
+
+------------------------------------------------------------------
+SE ALGO DER ERRADO
+------------------------------------------------------------------
+
+A pagina abriu sem cor nenhuma?
+  Voce provavelmente apagou alguma coisa dentro de <style>.
+  Use Ctrl + Z para desfazer ate' voltar ao normal.
+
+O "Go Live" nao aparece na barra de baixo?
+  A extensao Live Server nao esta instalada. Chame o professor.
+
+O navegador abriu numa pagina com lista de arquivos, e nao no site?
+  Voce abriu a pasta errada no VS Code. A pasta aberta precisa ser
+  a que contem o index.html.
+
+O painel de rede diz "(nenhum)" e "(nenhuma)"?
+  A pagina foi aberta com duplo clique no arquivo, e nao pelo
+  Live Server. Nao existe servidor nenhum nesse caso. Feche a aba
+  e clique em "Go Live" dentro do VS Code.
